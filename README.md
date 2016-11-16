@@ -36,4 +36,4 @@ Navigate to `localhost:3000` in browser.
 License
 -------
 
-GNU GPL v2. Copyright 2015 ***Moringa School**
+GNU GPL v2. Copyright 2016 **Moringa School**
