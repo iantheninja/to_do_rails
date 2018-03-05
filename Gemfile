@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails'
-gem 'pg'
+gem 'pg', '~> 0.18.3'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
@@ -16,6 +16,7 @@ group :development do
 end
 
 group :test, :development do
+  gem 'pg', '~> 0.18.3'
   gem 'rspec-rails'
   gem 'launchy'
   gem 'pry'
